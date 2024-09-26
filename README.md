@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adithya
 ===============================================================================================================================
 
-Student👨‍🎓. Flutter Developer. Machine Learning. Computer Science engineering.
+Student👨‍🎓. SDE . Deep learning . NLP . Computer Science engineering.
 --------------------------------------------------------------------------------
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [nadithya5636@gmail.com](mailto:nadithya5636@gmail.com)
 
 <b>My GitHub Stats</b>
 
